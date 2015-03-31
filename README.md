@@ -22,6 +22,9 @@ Revisions are **welcomed**. Go bears!
 * [VPN Connection](https://github.com/20015jjw/BerkeleyInternetGuide/wiki/VPN-Connection)
     *- The virtual you always at Berkeley*
 
+* [Software Central](https://github.com/20015jjw/BerkeleyInternetGuide/wiki/Software-Central)
+    *- The place where you can get all types of licensed software for free*
+
 ---
 
 这是一个简易的UC Berkeley上网教程。有问题的话欢迎指出！
@@ -40,3 +43,6 @@ Revisions are **welcomed**. Go bears!
 
 * [VPN | 中文](https://github.com/20015jjw/BerkeleyInternetGuide/wiki/VPN-%7C-%E4%B8%AD%E6%96%87)
     *- 那个一直在Berkeley的你*
+
+* [软件中心](https://github.com/20015jjw/BerkeleyInternetGuide/wiki/Software-Central)
+    *- 免费下载一些付费软件的地方*
